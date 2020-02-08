@@ -32,5 +32,5 @@ Utilizando a solução em núvem <a href="cloud.mongodb.com">MongoDB Atlas</a>, 
 <h1 align="center">Observações</h1>
 <p align="center">
 Todos os usuários "cadastrados" nessa aplicação, tem o objetivo apenas<br> de testar a aplicação, todos os dados como Foto e Nome vem direto<br> do Github e eu não tenho acesso a modificações.<br>
-Este é um projeto original da @Rocketseat
+  Este é um projeto original da <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p> 
